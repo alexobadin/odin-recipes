@@ -1,0 +1,26 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    text-align:center;
+
+    color: #2f2f2f;
+    
+}
+
+a {
+    font-size: 74px;;
+
+    color: rgb(253, 153, 116);
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+    margin-top: 85px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
